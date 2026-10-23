@@ -1,4 +1,4 @@
-# MSME Python Project
+# SHORTIT: URL SHORTNER 
 
 A Python-based URL shortener application developed during my internship at MSME Technology Centre, Puducherry.
 
